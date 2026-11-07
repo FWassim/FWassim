@@ -1,4 +1,4 @@
-### Wassim Fadli — Cloud & DevOps Engineer
+### Wassim F - Cloud & DevOps Engineer
 
 > *"Building resilient infrastructures and automating the friction away."*
 
