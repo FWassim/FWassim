@@ -21,7 +21,7 @@ I build backend applications, develop APIs, work with databases, and automate ap
 
 ## Featured Projects
 
-### [Marineford — Kubernetes Deployment Pipeline](https://github.com/FWassim/marineford-v1)
+### [Kubernetes Deployment Pipeline](https://github.com/FWassim/Automated-Kubernetes-Deployment)
 
 A Flask application containerized with Docker and deployed to a multi-node Kubernetes cluster using Ansible and GitHub Actions.
 
