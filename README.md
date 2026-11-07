@@ -20,11 +20,3 @@ Cloud & DevOps Engineer, graduated from **Sorbonne Université**. I focus on des
 
 * **[Infrastructure n8n pour le déploiement automatisé de contenus multimédias sur un VPS Hostinger](https://github.com/FWassim/Self-Hosted-n8n-Infrastructure-for-YouTube-Notion-Automation):** End-to-end automated publishing pipeline leveraging Docker, Traefik, PostgreSQL, and n8n.
 * **[Marineford-v1](https://github.com/FWassim/marineford-v1):** Multi-node Kubernetes cluster provisioned via Ansible with automated CI/CD pipelines.
-
----
-
-### 📈 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=FWassim&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
